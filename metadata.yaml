@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4696
     wikipedia: http://en.wikipedia.org/wiki/G._R._S._Mead
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35735#The-Gnostic-Crucifixion
 gutenberg_issued: '2011-04-01'
 gutenberg_type: Text
 identifiers:
