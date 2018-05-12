@@ -1,0 +1,29 @@
+_repo: The-Gnostic-Crucifixion_35735
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mead, G. R. S. (George Robert Stow)
+    alias: Mead, George Robert Stow
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '4696'
+    url: http://www.gutenberg.org/2009/agents/4696
+    wikipedia: http://en.wikipedia.org/wiki/G._R._S._Mead
+description: ''
+gutenberg_issued: '2011-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35735'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesus Christ -- Crucifixion'
+- !lcsh 'Gnosticism'
+- !lcc 'BT'
+title: The Gnostic Crucifixion
+url: http://www.gutenberg.org/ebooks/35735
